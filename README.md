@@ -1,11 +1,15 @@
 # DSP Studio
 
+> **프로토타입** — SAP Datasphere CLI의 활용 범위를 보여주기 위한 시연용 프로그램입니다. 정식 지원 도구가 아니므로 운영 테넌트에서 변경 작업을 하기 전에는 결과를 꼭 확인하세요.
+
 SAP Datasphere CLI(`@sap/datasphere-cli`)가 어디까지 할 수 있는지 보여주는 Windows 데스크톱 앱입니다.
 화면의 모든 동작은 CLI 명령으로 실행되고, 실행된 명령은 하단 **CLI 콘솔**에 그대로 보입니다.
 
 ## 다운로드
 
-[Releases](../../releases/latest)에서 `DSP-Studio-<버전>-portable.exe`를 받으세요. 설치 없이 더블클릭으로 실행됩니다.
+최신 버전 **1.12.0**: [DSP-Studio-1.12.0-portable.exe 바로 받기](https://github.com/SeongTaekLee/dsp-studio/releases/download/v1.12.0/DSP-Studio-1.12.0-portable.exe)
+
+이전 버전은 [Releases](../../releases)에 있습니다. 설치 없이 더블클릭으로 실행됩니다.
 
 ## 필요한 것
 
