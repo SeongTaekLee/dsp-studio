@@ -7,7 +7,7 @@ SAP Datasphere CLI(`@sap/datasphere-cli`)가 어디까지 할 수 있는지 보�
 
 ## 다운로드
 
-최신 버전 **1.13.0**: [DSP-Studio-1.13.0-portable.exe 바로 받기](https://github.com/SeongTaekLee/dsp-studio/releases/download/v1.13.0/DSP-Studio-1.13.0-portable.exe)
+최신 버전 **1.13.1**: [DSP-Studio-1.13.1-portable.exe 바로 받기](https://github.com/SeongTaekLee/dsp-studio/releases/download/v1.13.1/DSP-Studio-1.13.1-portable.exe)
 
 이전 버전은 [Releases](../../releases)에 있습니다. 설치 없이 더블클릭으로 실행됩니다.
 
